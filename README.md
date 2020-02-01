@@ -53,5 +53,10 @@ class Solution {
 }
 ```
 
+```
+Runtime Complexity = O(n), where n is the total number of nodes in the binary tree
+Space Complexity   = O(n), where n is the total number of nodes in the binary tree
+```
+
 # References :
 https://www.youtube.com/watch?v=jCqIr_tBLKs
